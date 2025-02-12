@@ -19,7 +19,7 @@ Forkify is a modern JavaScript application that allows users to search for recip
 
 ## Live Demo
 
-Check out the live demo of the Forkify project [https://forkify-mo7med.netlify.app/].
+[Live Demo🍕](https://forkify-mo7med.netlify.app/).
 
 ## Usage
 
@@ -38,14 +38,6 @@ Check out the live demo of the Forkify project [https://forkify-mo7med.netlify.a
 4. **Bookmark a Recipe:**
    - Click on the bookmark icon to save a recipe to your bookmarks.
    - Access your bookmarked recipes from the bookmarks section.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
