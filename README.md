@@ -21,30 +21,6 @@ Forkify is a modern JavaScript application that allows users to search for recip
 
 Check out the live demo of the Forkify project [https://forkify-mo7med.netlify.app/].
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/m7medA/forkify
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd forkify
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4. **Run the application:**
-    ```bash
-    npm start
-    ```
-
 ## Usage
 
 1. **Search for Recipes:**
