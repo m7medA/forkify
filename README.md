@@ -19,7 +19,7 @@ Forkify is a modern JavaScript application that allows users to search for recip
 
 ## Live Demo
 
-[Live Demo🍕](https://forkify-mo7med.netlify.app/).
+[Live Demo🍕](https://forkify-m7med.netlify.app/).
 
 ## Usage
 
