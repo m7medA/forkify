@@ -1,6 +1,9 @@
 # Forkify Project
 
-Forkify is a modern JavaScript application that allows users to search for recipes, view recipe details, and manage their own recipe collections. This project is part of the Complete JavaScript Course by Jonas Schmedtmann.
+Forkify is a modern JavaScript application that allows users to search for recipes, view recipe details, and manage their own recipe collections.
+
+- **Vanilla JavaScript:** The project is built using plain JavaScript without any frameworks.
+- **Single Page Application (SPA).**
 
 ## Features
 
@@ -17,6 +20,11 @@ Forkify is a modern JavaScript application that allows users to search for recip
 - **Parcel:** A web application bundler used for building and optimizing the project.
 - **API:** The application fetches recipe data from an external API.
 
+## Patterns Used
+
+- **MVC Pattern:** The project follows the Model-View-Controller (MVC) architectural pattern.
+- **Publisher-Subscriber Pattern:** The project uses the publisher-subscriber pattern for managing events.
+
 ## Live Demo
 
 [Live Demo🍕](https://forkify-m7med.netlify.app/).
@@ -24,23 +32,20 @@ Forkify is a modern JavaScript application that allows users to search for recip
 ## Usage
 
 1. **Search for Recipes:**
+
    - Enter a keyword in the search bar and press Enter.
    - Browse through the search results to find a recipe you like.
 
 2. **View Recipe Details:**
+
    - Click on a recipe from the search results to view its details.
    - The recipe details page will show ingredients, cooking instructions, and more.
 
 3. **Add a Recipe:**
+
    - Click on the "Add Recipe" button in the navigation bar.
    - Fill in the recipe details and submit the form to add your recipe.
 
 4. **Bookmark a Recipe:**
    - Click on the bookmark icon to save a recipe to your bookmarks.
    - Access your bookmarked recipes from the bookmarks section.
-
-## Acknowledgements
-
-- This project is part of the Complete JavaScript Course by Jonas Schmedtmann.
-- Recipe data is fetched from the [Forkify API](https://forkify-api.herokuapp.com/).
-
